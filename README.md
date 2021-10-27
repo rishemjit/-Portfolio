@@ -1,3 +1,3 @@
-# rishemjitkaur.github.io
+# rishemjit.github.io
 
-https://rishemjitkaur.github.io/
+https://rishemjit.github.io/
