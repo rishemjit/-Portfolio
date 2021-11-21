@@ -648,8 +648,15 @@ body.offcanvas {
     border-bottom: 2px solid #2fa499; }
   .services.color-6 {
     border-bottom: 2px solid #4054b2; }
-
+.list-item-justify li {
+  list-style-type: disc !important;
+  list-style-position: inside !important;
+  padding: 0 0 0px 20px !important;
+  text-indent: -20px !important;
+}
 .services {
+  height: 170px !important;
+  max-height: 170px !important;
   margin-bottom: 80px;
   position: relative;
   z-index: 0; }
